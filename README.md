@@ -16,7 +16,7 @@ Command [hello](hello/) covers:
 
 * The basic form of an executable command
 * Importing packages (from the standard library and the local repository)
-* Printing strings ([fmt](//golang.org/pkg/fmt/))
+* Printing strings ([fmt](//golang.org/pkg/fmt/)) 
 
 Library [stringutil](stringutil/) covers:
 
