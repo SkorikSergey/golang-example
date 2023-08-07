@@ -5,7 +5,7 @@
 
 This repository contains a collection of Go programs and libraries that
 demonstrate the language, standard libraries, and tools.
-
+d
 ## [hello](hello/) and [stringutil](stringutil/)
 
     go get golang.org/x/example/hello
